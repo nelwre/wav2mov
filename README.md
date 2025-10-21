@@ -12,10 +12,10 @@
 
 * "bash wav2mov.sh filename.wav"
 
-*Then, ffmpeg renders a black color screen in the exact duration of the audio, at 720p30fps.
+* Then, ffmpeg renders a black color screen in the exact duration of the audio, at 720p30fps.
 
 # But why?
 
-* I made this with the intention of uploading the pure audio, to avoid possible loss of quality when uploaded to some audio or video service (YouTube is a good example because it always re-encodes audios from videos to aac or opus).
+* I made this with the intention of uploading the pure audio, to avoid possible loss of quality when uploaded to some video services (YouTube is a good example because it always re-encodes audios from videos to aac or opus).
 
 * Unfortunately, there is no way to prevent this, so the best way is to upload the pure audio to avoid loss of quality "in what is already lost".
